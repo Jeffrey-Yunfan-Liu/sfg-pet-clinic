@@ -1,4 +1,4 @@
-# sfg-pet-clinic
+# SFG Pet Clinic
 SFG Pet Clinic
 
 Following John Thompson.
